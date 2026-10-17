@@ -1,9 +1,4 @@
-# Secure-Password-Generator
-# secure password Generator &amp; manager 
-A robust , command-line utility developed in **python** that generates highly secure and randomized password based on user-defined constraints. This project demonstrates clean coding practices, input validation, and foundational core concepts of computer science.
-## Key Features
-* ** Customizable Complexity:** Allow users to explicitly define the exact count of letters, numeric digits, and special symbols required in their password.
-* ** File Logging& I/O:** Utilizes Python's built-in 'random' and 'string' modules to generate unpredictable .## 💻 Code Architecture (Snippet)
+
 
 Here is a glimpse of how the core logic handles random selection from character lists:
 
